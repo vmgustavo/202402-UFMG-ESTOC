@@ -17,6 +17,8 @@ smile: answers provided
 - [X] 2.15 (c)
 - [X] 2.16 (c)
 
+ans 17
+
 - [X] 3.3
 - [X] 3.6
 - [X] 3.9
@@ -70,10 +72,16 @@ ans 102
 
 - [X] 8.3
 - [X] 8.4
-- [ ] 8.13
+- [X] 8.13
 - [ ] 8.15
 
 # Lista 4
+
+## Discrete N-Dimensional Random Variables
+
+chapter 260
+questions 290
+ans 123
 
 - [ ] 9.1
 - [ ] 9.7
@@ -86,18 +94,30 @@ ans 102
 - [ ] 9.34
 - [ ] 9.35
 
-- [ ] 10.5
-- [ ] 10.8
+## Continuous Random Variables
+
+chapter 297
+questions 343
+ans 139
+
+- [X] 10.5
+- [X] 10.8
 - [ ] 10.11
 - [ ] 10.13
 - [ ] 10.23
-- [ ] 10.34
-- [ ] 10.37
-- [ ] 10.41
+- [X] 10.34
+- [?] 10.37
+- [?] 10.41
 - [ ] 10.42
 - [ ] 10.44
 - [ ] 10.48
 - [ ] 10.55
+
+## Expected Values for Continuous Random Variables
+
+chapter 355
+questions 379
+ans 167
 
 - [ ] 11.2
 - [ ] 11.5
@@ -109,6 +129,12 @@ ans 102
 - [ ] 11.36
 - [ ] 11.41
 
+## Multiple Continuous Random Variables
+
+chapter 388
+questions 434
+ans 191
+
 - [ ] 12.6
 - [ ] 12.9
 - [ ] 12.22
@@ -116,3 +142,21 @@ ans 102
 - [ ] 12.37
 - [ ] 12.46
 - [ ] 12.54
+
+# Lista ?
+
+## Conditional Probability Density Functions
+
+chapter 443
+questions 462
+ans 228
+
+- [ ] 13.
+
+## Continuous N-Dimensional Random Variables
+
+chapter 466
+questions 488
+ans 243
+
+- [ ] 14.
