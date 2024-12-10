@@ -1,0 +1,29 @@
+
+- [x] 1
+  - https://en.wikipedia.org/wiki/Boole%27s_inequality
+- [x] 2
+- [x] 3
+  - https://en.wikipedia.org/wiki/Memorylessness
+  - https://www.youtube.com/watch?v=h-_8KnqPscM
+  - https://math.stackexchange.com/questions/1801830/on-the-proof-that-every-positive-continuous-random-variable-with-the-memoryless
+  - https://www.youtube.com/watch?v=N8O6zd6vTZ8&t=586s
+- [x] 4
+  - https://en.wikipedia.org/wiki/Buffon%27s_needle_problem
+- [ ] 5
+- [ ] 6
+  - https://www.youtube.com/watch?v=nuQXLvYO48Q
+  - https://math.stackexchange.com/questions/1212793/find-the-distribution-of-sqrtx2y2-where-x-and-y-are-normally-distributed
+- [ ] 7
+- [y] 8
+  - a
+    - https://www.youtube.com/watch?v=BboIo3kb09I
+    - https://math.stackexchange.com/questions/2775694/find-textcovx-y-given-x-textminu-v-and-y-textmaxu-v
+    - https://stats.stackexchange.com/questions/25965/what-is-covx-y-where-x-minu-v-and-y-maxu-v-for-independent-uniform0-1-v
+  - b
+    - https://math.stackexchange.com/questions/1687795/correlated-joint-normal-distribution-calculating-a-probability
+    - https://www.probabilitycourse.com/chapter5/5_3_2_bivariate_normal_dist.php
+    - pg399 - example 12.2
+    - https://online.stat.psu.edu/stat414/lesson/21/21.2
+    - https://math.stackexchange.com/questions/255368/px0-y0-for-a-bivariate-normal-distribution-with-correlation-rho?rq=1
+- [x] 9
+- [x] 10
