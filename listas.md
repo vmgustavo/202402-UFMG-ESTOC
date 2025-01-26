@@ -161,36 +161,79 @@ ans 243
 
 - [ ] 14.
 
-## 
+## Probability and Moment Approximations Using Limit Theorems
 
-chapter
-questions
-ans
+chapter 493
+questions 515
+ans 260
 
-- [ ] 16.3
-- [ ] 16.11
-- [ ] 16.12
-- [ ] 16.17
-- [ ] 16.20
-- [ ] 16.23
-- [ ] 16.25
+- [ ] 15.
 
-## 
+# Lista 5
 
-chapter
-questions
-ans
+## Basic Random Processes
 
-- [ ] 17.3
-- [ ] 17.4
-- [ ] 17.6
-- [ ] 17.7
-- [ ] 17.10
-- [ ] 17.15
-- [ ] 17.20
-- [ ] 17.21
-- [ ] 17.31
-- [ ] 17.32
-- [ ] 17.33
-- [ ] 17.37
-- [ ] 17.41
+chapter 523
+questions 550
+ans 280
+
+- [X] 16.3
+- [X] 16.11
+- [X] 16.12
+- [X] 16.17
+- [X] 16.20
+- [X] 16.23
+- [X] 16.25
+
+## Wide Sense Stationary Random Processes
+
+chapter 555
+questions 598
+ans 301
+
+- [X] 17.3
+- [X] 17.4
+- [X] 17.6
+- [X] 17.7
+- [X] 17.10
+- [X] 17.15
+- [X] 17.20
+- [?] 17.21
+- [X] 17.31
+- [X] 17.32
+- [X] 17.33
+- [X] 17.37
+- [X] 17.41
+
+## Linear Systems and Wide Sense Stationary Random Processes
+
+chapter 605
+questions 639
+ans 329
+
+- [X] 18.3
+- [X] 18.8
+- [X] 18.9
+- [?] 18.12
+- [X] 18.13
+- [o] 18.15
+- [X] 18.16
+- [-] 18.19
+- [?] 18.20
+
+## Multiple Wide Sense Stationary Random Processes
+
+chapter 648
+questions 674
+ans 356
+
+## Gaussian Random Processes
+
+chapter 679
+questions 707
+ans 391
+
+- [ ] 20.17
+- [ ] 20.18
+- [ ] 20.20
+- [ ] 20.24
